@@ -1,7 +1,7 @@
 # An implementation of snake-game in golang
 
 Packages used:
-* [Tcel](https://github.com/gdamore/tcell)
+* [Tcell](https://github.com/gdamore/tcell)
 
 ### How to run:
 You should have go downloaded and installed on your local machine, then:
